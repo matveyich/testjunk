@@ -1,0 +1,25 @@
+<html>
+	<head>
+		<script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+		<script src="bootstrap/js/bootstrap.js" type="text/javascript"></script>
+    <script src="typeahead.js" type="text/javascript"></script>
+		
+    <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
+    <link rel="stylesheet" href="typeahead.css">
+    <link rel="stylesheet" href="examples.css">
+    <link rel="stylesheet" href="twitter-typeahead.css">
+    
+	</head>
+	<body>
+<input type="text" class="typeahead">
+		<script>
+			// single dataset
+			$(document).ready(function() {
+				$('input.typeahead').typeahead({
+			  	name: 'accounts',
+			  	local: ['timtrueman', 'Jake Harding', 'vskarich']
+			})
+			});
+		</script>
+	</body>
+</html>
