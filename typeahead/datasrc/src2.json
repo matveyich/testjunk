@@ -1,0 +1,4 @@
+{
+	value: '@Accounts'
+	tokens: ['Open Account Name', 'New Account Name', 'Go to Accounts', 'Открыть Контрагент Название', 'Создать Контрагент Название', 'Перейти в раздел Контрагенты']
+}	

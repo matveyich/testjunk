@@ -1,0 +1,4 @@
+{
+	value: '@Contacts'
+	tokens: ['Open Contact FullName', 'New Contact FullName', 'Go to Contacts', 'Открыть Контакт ФИО', 'Создать Контакт ФИО', 'Перейти в раздел Контакты']
+}	

@@ -1,0 +1,4 @@
+{
+	value: '@Activities'
+	tokens: ['Open Activity Name', 'New Account Name', 'Go to Activities', 'Открыть Активность Название', 'Создать Активность Название', 'Перейти в раздел Активности']
+}	
